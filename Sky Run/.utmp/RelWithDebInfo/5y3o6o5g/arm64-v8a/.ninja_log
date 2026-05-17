@@ -1,0 +1,10 @@
+# ninja log v5
+33	3134	8007481405862251	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7c0d510ef9286ac6
+44	3165	8007481405919824	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e6330cd9128c4956
+15	3246	8007481406569986	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	134bc33e0cd1ea03
+77	3351	8007481406902042	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e7f74141df865257
+24	3378	8007481407839654	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bac96df830203851
+57	3735	8007481411495349	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	97ed24ed8e7822a8
+1	3908	8007481413578898	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	40c62fd1de47227a
+67	4177	8007481416066878	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	bb200eb8a2306107
+4178	4600	8007481420018112	D:/Capermint Technologies Pvt. Ltd/Sky-Run-Game/Sky Run/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5y3o6o5g/obj/arm64-v8a/libgame.so	87a3404f72446ef1
